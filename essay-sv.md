@@ -27,11 +27,11 @@ I akademiskt skrivande är referenser något man håller hårt på. Alla faktap�
 Det finns olika så kallade referenssystem i den akademiska världen. Inom datavetenskap har vi valt att hålla oss till ieee-systemet som du kan läsa mer på där du också hittar exempel på hur referenser används: [IEEE - Jönköpings Universitet](http://ju.se/bibliotek/sok---skrivhjalp/litteraturreferenser---sa-skriver-du/ieee-systemet.html)
 
 #### Skillnad på fotnot och referens (anser vi)
-Du kan använda fotnoter i ditt arbete. En fotnot<sup>[1]</sup> markeras ofta med en upphöjd siffra i löptext och sedan i en lista i sidfoten. En sidfot ses mer som tilläggsinformation som ibland kan behövas i löptext men som man vill separera ut för att få bättre flyt i texten. Det kan vara ytterligare förklaringar, kuriosa eller länkar som inte passar i löptext.
+Du kan använda fotnoter i ditt arbete. En fotnot<sup>1</sup> markeras ofta med en upphöjd siffra i löptext och sedan i en lista i sidfoten. En sidfot ses mer som tilläggsinformation som ibland kan behövas i löptext men som man vill separera ut för att få bättre flyt i texten. Det kan vara ytterligare förklaringar, kuriosa eller länkar som inte passar i löptext.
 
 Referenser, däremot, används för att understryka/validera påståenden i texten.
 
-<sup>[1]</sup> [Wikipedia - Fotnot](https://sv.wikipedia.org/wiki/Fotnot)
+<sup>1</sup> [Wikipedia - Fotnot](https://sv.wikipedia.org/wiki/Fotnot)
 
 ### Mer exempel och hjälp
 
