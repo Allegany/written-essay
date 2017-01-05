@@ -1,37 +1,37 @@
 ## Att skriva essä
 En essä är en friare form av akademiskt skrivande. I essän försöker man skriva på ett mer populärvetenskapligt framställningssätt kring en frågeställning än vad man gör vid t.ex. en artikel.
-En essä ska vara enkelt skriven och lätt att ta till sig utan att tumma på att språket måste dock vara välformulerat och välskrivet. Det finns en viss frihet för en personlig stil i språket. Det är viktigt med ett uttrycksfullt språk i din essä så att ditt resonemang får färg och innehåll. Läsningen av en
-essä ska vara lustfylld och inte enbart vara faktainläsning. Du ska visa att du har egna tankar och funderingar kring ämnet.
+En essä ska vara enkelt skriven och lätt att ta till sig utan att tumma på att språket är välformulerat och välskrivet. Det finns viss frihet för en personlig stil i språket. Det är viktigt med ett uttrycksfullt språk i din essä så att ditt resonemang får färg och innehåll. Läsningen av en essä ska vara lustfylld och inte enbart vara faktainläsning. Du ska visa att du har egna tankar och funderingar kring ämnet.
 
 Att skriva en essä ska ses som en bra och verklig övning inför kommande akademiska uppsatser även om dessa ofta är mer strikta och formella i sitt språk.
 
-En essä diskuterar en specifik frågeställning utifrån fakta. Man kan säga att essän står på två ben, fakta (dina införskaffade kunskaper) och det andra är ditt egna resonemang kring dessa kunskaper. Fakta inhämtas ifrån artiklar (helst vetenskapliga) och böcker. Motivera, påstå, framför åsikter. Dessa fakta måste hela tiden underbyggas med hjälp av referenser tillbaka till källan så att läsaren kan gå till källan och kontrollera de påståenden som görs. Detta är en mycket viktig del i akademiskt skrivande. Hur man hanterar referenser tas upp nedan. Det är viktigt att läsaren uppfattar att skrivaren behärskar området.
+En essä diskuterar en specifik frågeställning utifrån fakta. Man kan säga att essän står på två ben, fakta (dina införskaffade kunskaper) och det andra är ditt egna resonemang kring dessa kunskaper. Fakta inhämtas från artiklar (helst vetenskapliga) och böcker. Motivera, påstå och framför åsikter. Dessa fakta måste hela tiden underbyggas med referenser till källan så att läsaren kan gå till källan och kontrollera de påståenden som görs. Detta är en mycket viktig del i akademiskt skrivande. Hur referenser hanteras tas upp nedan. Det är viktigt att läsaren uppfattar att skrivaren behärskar området.
 
 
 ## Strukturen och innehåll
-En essä ska vara någonstans mellan 2-4 sidor (försättssida, referenslista och ev. bilagor räknas ej med) med brödtext skriven i Times New Roman, 12 punkter med 1.5 radavstånd. Detta innebär att arbetet ska bestå av någonstans mellan 1200-2400 ord. Tänk på styckes indelningar eventuella underrubriker m.m. för att texten blir luftig och lätt att läsa.
+Din essä ska vara någonstans mellan 2-4 sidor (försättssida, referenslista och ev. bilagor räknas ej med) med brödtext skriven i Times New Roman, 12 punkter med 1.5 radavstånd. Detta innebär att arbetet ska bestå av någonstans mellan 1200-2400 ord. Tänk på styckesindelningar, eventuella underrubriker med mera för att texten blir luftig och lätt att läsa.
 
 ### Försättssida
 Arbetet ska ha en titel som så bra som möjligt beskriver arbetets innehåll. Eventuellt kan det även finns en underrubrik. På försättssidan ska det också tydligt framgå vem som skrivit arbetet, vilket årtal samt vilket univeristet, klass och kurs arbetet gjorts på.
 
 ### Inledning
-Det är har man ska försöka fånga läsaren genom att presentera ämnet på ett intressant sätt. Inledningen byggs oftas upp med en bakgrund till ämnet för att sedan presentera den mer specifika frågeställningen i slutet. Inledningen ger läsaren behövliga bakgrundskunskaper om det ämne essän behandlar. Den skall också föra in läsaren på rätt ämne.
+Här ska du försöka fånga läsaren genom att presentera ämnet på ett intressant sätt. Inledningen byggs oftas upp med en bakgrund till ämnet för att sedan presentera den mer specifika frågeställningen i slutet. Inledningen ger läsaren behövliga bakgrundskunskaper om det ämne essän behandlar. Den skall också föra in läsaren på rätt ämne.
 
 ### Huvuddel
 I själva huvuddelen bör rubriken grundas på ämnesvalet. Använd gärna underrubriker för att strukturera upp innehållet. Här ska du presentera fakta och visa att du kan föra ett resonemang och bygger dina egna åsikter kring dessa.
 
 ### Avslutning
-I avslutningen ska du knyta ihop säcken och presentera ditt slutgiltiga svar på din frågeställning, om det nu finns ett enhälligt svar. Annars presenteras de olika ståndpunkterna som arbetet kommit fram till eller att frågan fortfarande hålls öppen. Du ska alltså avsluta på ett samfattande sätt.
+I avslutningen ska du knyta ihop säcken och presentera ditt slutgiltiga svar på din frågeställning, om det nu finns ett enhälligt svar. Annars presenteras de olika ståndpunkterna som arbetet kommit fram till eller att frågan fortfarande hålls öppen. Du ska alltså avsluta på ett samanfattande sätt.
 
 ### Referenser och referenslista
 I akademiskt skrivande är referenser något man håller hårt på. Alla faktapåståenden måste kunna härledas av läsaren till en källan. Detta ska tydligt framgå i ditt arbete. Referenser infogas löpande i texten och listas i en avslutande referenslista.
-Det finns olika så kallade refernssystem i den akademiska världen. Inom datavetenskap har vi valt att hålla oss till ieee-systemet som du kan läsa mer på där du också hittar exempel på hur referenser används: http://ju.se/bibliotek/sok---skrivhjalp/litteraturreferenser---sa-skriver-du/ieee-systemet.html
+Det finns olika så kallade referenssystem i den akademiska världen. Inom datavetenskap har vi valt att hålla oss till ieee-systemet som du kan läsa mer på där du också hittar exempel på hur referenser används: [IEEE - Jönköpings Universitet](http://ju.se/bibliotek/sok---skrivhjalp/litteraturreferenser---sa-skriver-du/ieee-systemet.html)
 
 #### Skillnad på fotnot och referens (anser vi)
-Du kan använda fotnoter i ditt arbete. En fotnot markeras ofta med en upphöjd siffra i löptext och sedan i en lista i sidfoten. En sidfot ses mer som tilläggsinformation som ibland kan behövas i löptext men som man vill separera ut för att få bättre flyt i texten. Det kan vara ytterligare förklaringar, kuriosa eller länkar som inte passar i löptext.
+Du kan använda fotnoter i ditt arbete. En fotnot<sup>1</sup> markeras ofta med en upphöjd siffra i löptext och sedan i en lista i sidfoten. En sidfot ses mer som tilläggsinformation som ibland kan behövas i löptext men som man vill separera ut för att få bättre flyt i texten. Det kan vara ytterligare förklaringar, kuriosa eller länkar som inte passar i löptext.
 
 Referenser, däremot, används för att understryka/validera påståenden i texten.
 
+<sup>1</sup> Wikipedia - Fotnot
 
 ### Mer exempel och hjälp
 
