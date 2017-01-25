@@ -8,7 +8,7 @@ En essä diskuterar en specifik frågeställning utifrån fakta. Man kan säga a
 
 
 ## Strukturen och innehåll
-Din essä ska vara någonstans mellan 2-4 sidor (försättssida, referenslista och ev. bilagor räknas ej med) med brödtext skriven i Times New Roman, 12 punkter med 1.5 radavstånd. Detta innebär att arbetet ska bestå av någonstans mellan 1200-2400 ord. Tänk på styckesindelningar, eventuella underrubriker med mera för att texten blir luftig och lätt att läsa.
+Din essä ska vara någonstans mellan 2-5 sidor (försättssida, referenslista och ev. bilagor räknas ej med) med brödtext skriven i Times New Roman, 12 punkter med 1.5 radavstånd. Detta innebär att arbetet ska bestå av någonstans mellan 1200-2400 ord. Det behöver inte vara millimeter precision på detta men det ger en uppfattning om omfattningen. Tänk på styckesindelningar, eventuella underrubriker med mera för att texten blir luftig och lätt att läsa.
 
 ### Försättssida
 Arbetet ska ha en titel som så bra som möjligt beskriver arbetets innehåll. Eventuellt kan det även finns en underrubrik. På försättssidan ska det också tydligt framgå vem som skrivit arbetet, vilket årtal samt vilket univeristet, klass och kurs arbetet gjorts på.
